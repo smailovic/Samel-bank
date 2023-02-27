@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/smael-bank/static/css/main.2ff01345.chunk.css",
+    "main.js": "/smael-bank/static/js/main.f6f7d62e.chunk.js",
+    "main.js.map": "/smael-bank/static/js/main.f6f7d62e.chunk.js.map",
+    "runtime-main.js": "/smael-bank/static/js/runtime-main.bce1bcd8.js",
+    "runtime-main.js.map": "/smael-bank/static/js/runtime-main.bce1bcd8.js.map",
+    "static/js/2.32f84371.chunk.js": "/smael-bank/static/js/2.32f84371.chunk.js",
+    "static/js/2.32f84371.chunk.js.map": "/smael-bank/static/js/2.32f84371.chunk.js.map",
+    "static/js/3.d3e58198.chunk.js": "/smael-bank/static/js/3.d3e58198.chunk.js",
+    "static/js/3.d3e58198.chunk.js.map": "/smael-bank/static/js/3.d3e58198.chunk.js.map",
+    "index.html": "/smael-bank/index.html",
+    "static/css/main.2ff01345.chunk.css.map": "/smael-bank/static/css/main.2ff01345.chunk.css.map",
+    "static/js/2.32f84371.chunk.js.LICENSE.txt": "/smael-bank/static/js/2.32f84371.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bce1bcd8.js",
+    "static/js/2.32f84371.chunk.js",
+    "static/css/main.2ff01345.chunk.css",
+    "static/js/main.f6f7d62e.chunk.js"
+  ]
+}
