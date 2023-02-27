@@ -1,9 +1,5 @@
 import React from 'react';
 
 export const Logo = () => {
-  return (
-    <h1 id="logo">
-      <i className="bx bxs-paper-plane"></i> Smael Bank
-    </h1>
-  );
+  return <h1 id="logo">Smael Bank</h1>;
 };
